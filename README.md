@@ -4,7 +4,8 @@
 
 # HEADS UP
 
-You can find more about the project on the website being developped right now !
+I will be updating the website soon, however a first version is running right now here : 
+https://frostbite.fr/
 
 ---
 
