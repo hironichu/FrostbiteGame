@@ -9,9 +9,9 @@ https://frostbite.fr/
 
 ---
 
-Frostbite is a Browser mini Survival RPG ! made entierly in javascript for browser without any need to host it somewhere. You can download the game and execute the index.html right into your browser,
+Frostbite is a Browser mini Survival RPG ! made entierly in javascript for browser
 
-  - Challenging objectives
+  - Challenging objectives / Quests
   - Complete and complexe inventory and crafting system
   - Magic!
 
@@ -40,7 +40,7 @@ For now the repo is not available publicly!
 | Name | Work | Social |
 | ------ | ------ | ------ |
 | Dafter | Sound Effects/Ambiances | [Soundcloud][madsanmusicSC] / [Youtube][madsanmusicYTB] |
-| Alkyn | Main Song | [Twitter][AlkynTw] [Twitch][AlkynTwitch]|
+| Alkyn | OST | [Twitch][AlkynTwitch]|
 | ..more |... |... |
 
 
@@ -55,6 +55,5 @@ Apache
 
    [madsanmusicSC]: <https://soundcloud.com/madsanmusic>
    [madsanmusicYTB]: <https://www.youtube.com/channel/UCkNuDUM6vfMbJgjG3cliPLQ>
-   [AlkynTw]: <https://twitter.com/alkynn>
    [AlkynTwitch]: <https://twitch.com/alkyn>
 
